@@ -1,0 +1,5 @@
+train: C:/Users/LENOVO/Desktop/cvvv/boycott_dataset/images/train
+val: C:/Users/LENOVO/Desktop/cvvv/boycott_dataset/images/val
+
+nc: 8 
+names: ['Ferrero Rocher', 'Nescafe', 'Pampers' , 'pepsi' , 'Milka' , 'Kit Kat', 'NIVEA' , 'TIDE'  ]  # Change selon tes classes
